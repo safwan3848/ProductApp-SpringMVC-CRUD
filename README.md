@@ -1,6 +1,7 @@
 # ProductApp-SpringMVC-CRUD
 In this web application user can add their product and also update the product.
 Like product name, product description and product price all the details are stored in database.
+Technology : core java, jsp, servlet, spring mvc, jdbc, bootstrap, css , MySql.
 
 1. Home Page (Welcome Page)
 
